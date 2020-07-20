@@ -4,3 +4,4 @@ ini hanya menu artikel aja ya
   
   <p>Terintegrasi CircleCI</p>
   <p>Terintegrasi Azure Dev Ops</p>
+  <p>Teroptimisasi imgbot!</p>
